@@ -1,9 +1,9 @@
 ## Platform Requirements-
 
-PyTorch 0.41+.
-Linux or macOS
-Python 3
-CPU or NVIDIA GPU + CUDA CuDNN 
+PyTorch 0.41+ |
+Linux or macOS |
+Python 3 |
+CPU or NVIDIA GPU + CUDA CuDNN
 
 
 ## Installation-
