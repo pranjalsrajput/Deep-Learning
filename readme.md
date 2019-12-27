@@ -17,6 +17,8 @@ Clone this repo:
 6) Set --gpu_ids -1 to use CPU mode; set --gpu_ids 0,1,2 for multi-GPU mode (Large batch size is needed to benefit from multiple GPUs) 
 7) The intermediate results are saved inside `checkpoint` folder as an HTML file
 
+## Download Dataset
+Use this link https://drive.google.com/file/d/1ZnVPnGGvlsD1FtPIFrxNgOyi4wEDseLw/view?usp=sharing
 
 ## How to run Pix2Pix?
 
