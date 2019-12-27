@@ -19,6 +19,7 @@ Clone this repo:
 
 ## Download Dataset
 Use this link https://drive.google.com/file/d/1ZnVPnGGvlsD1FtPIFrxNgOyi4wEDseLw/view?usp=sharing
+Extract all data in one folder, and then divide it into train and test set.
 
 ## How to run Pix2Pix?
 
