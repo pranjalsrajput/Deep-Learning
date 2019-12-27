@@ -1,4 +1,4 @@
-##Platform Requirements-
+## Platform Requirements-
 
 PyTorch 0.41+.
 Linux or macOS
@@ -6,7 +6,7 @@ Python 3
 CPU or NVIDIA GPU + CUDA CuDNN 
 
 
-##Installation-
+## Installation-
 
 Clone this repo:
 1) `git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix`
@@ -18,19 +18,19 @@ Clone this repo:
 7) The intermediate results are saved inside `checkpoint` folder as an HTML file
 
 
-##How to run Pix2Pix?
+## How to run Pix2Pix?
 
-###Training-
+### Training-
 `python3 train.py --dataroot path_to_dataset --name cartoon_pix2pix --model pix2pix --direction BtoA`
 
-###Testing-
+### Testing-
 `python3 test.py --dataroot path_to_dataset --name cartoon_pix2pix --model test --netG unet_256 --direction BtoA --dataset_mode single --norm batch`
 
 
-##How to run CycleGAN?
+## How to run CycleGAN?
 
-###Training-
+### Training-
 `python3 train.py --dataroot path_to_dataset --preprocess scale_width_and_crop --load_size 128 --crop_size 128 --name cartoon_cycle_gan --model cycle_gan`
 
-###Testing-
+### Testing-
 `python3 test.py --dataroot path_to_dataset --name cartoon_cycle_gan --model test --no_dropout --preprocess scale_width --load_size 128`
