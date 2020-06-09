@@ -29,6 +29,27 @@ For further evaluation through data augmentation, a set of images were used to c
 
 The result is initially analyzed visually and later we use the cosine dissimilarity to quantitatively evaluate our network.
 
+## Results
+
+<img src="images/Fig1.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig2.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig3.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig4.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig5.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig6.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig7.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig8.png" alt="drawing" width="1000"/>
+
+<img src="images/Fig9.png" alt="drawing" width="1000"/>
+
+
 ## Platform Requirements-
 
 PyTorch 0.41+ |
