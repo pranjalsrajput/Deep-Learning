@@ -31,15 +31,15 @@ The result is initially analyzed visually and later we use the cosine dissimilar
 
 ## Results
 
-<img src="images/Fig1.png" alt="drawing" width="1000"/>
+<img src="images/Fig1.png" alt="drawing" width="400"/>
 
-<img src="images/Fig2.png" alt="drawing" width="1000"/>
+<img src="images/Fig2.png" alt="drawing" width="300"/>
 
-<img src="images/Fig3.png" alt="drawing" width="1000"/>
+<img src="images/Fig3.png" alt="drawing" width="250"/>
 
-<img src="images/Fig4.png" alt="drawing" width="1000"/>
+<img src="images/Fig4.png" alt="drawing" width="200"/>
 
-<img src="images/Fig5.png" alt="drawing" width="1000"/>
+<img src="images/Fig5.png" alt="drawing" width="400"/>
 
 <img src="images/Fig6.png" alt="drawing" width="1000"/>
 
