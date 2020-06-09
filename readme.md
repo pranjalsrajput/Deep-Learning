@@ -33,11 +33,10 @@ The result is initially analyzed visually and later we use the cosine dissimilar
 
 <img src="images/Fig1.png" alt="drawing" width="250"/> <img src="images/Fig2.png" alt="drawing" width="250"/> <img src="images/Fig3.png" alt="drawing" width="250"/>
 
-<img src="images/Fig4.png" alt="drawing" width="300"/>
+<img src="images/Fig4.png" alt="drawing" width="250"/> <img src="images/Fig6.png" alt="drawing" width="250"/>
 
 <img src="images/Fig5.png" alt="drawing" width="400"/>
 
-<img src="images/Fig6.png" alt="drawing" width="300"/>
 
 ## Comparison with CycleGAN
 
@@ -50,9 +49,7 @@ We trained our dataset on the CycleGAN framework and compared its test results, 
 
 Cosine dissimilarity is a measure of the similarity between two vectors. Since the generated image and the target image are themselves representable as vectors, it is therefore possible to use the cosine dissimilarity to measure how close the two images are.
 
-<img src="images/Fig8.png" alt="drawing" width="400"/>
-
-<img src="images/Fig9.png" alt="drawing" width="300"/>
+<img src="images/Fig8.png" alt="drawing" width="400"/> <img src="images/Fig9.png" alt="drawing" width="300"/>
 
 From Figure 10, it can be seen that on average, the cosine  dissimilarity  between  the  different  batch  sizes  is  the same. However, in line with the observations made through a visual inspection,  table shows that the model trained with a batch size of 1 has the lowest cosine value and that the higher the batch size the worse the score. The disparity between this observation and that obtained when comparing the dissimilarity during training suggests that the higher batch size models do not generalize as well as the model with a batch size of 1.
 
