@@ -35,7 +35,7 @@ The result is initially analyzed visually and later we use the cosine dissimilar
 
 <img src="images/Fig4.png" alt="drawing" width="250"/> <img src="images/Fig6.png" alt="drawing" width="250"/>
 
-<img src="images/Fig5.png" alt="drawing" width="400"/>
+<img src="images/Fig5.png" alt="drawing" width="750" height="400"/>
 
 
 ## Comparison with CycleGAN
