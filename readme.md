@@ -31,7 +31,7 @@ The result is initially analyzed visually and later we use the cosine dissimilar
 
 ## Results
 
-<img src="images/Fig1.png" alt="drawing" width="300"/> <img src="images/Fig2.png" alt="drawing" width="300"/> <img src="images/Fig3.png" alt="drawing" width="300"/>
+<img src="images/Fig1.png" alt="drawing" width="250"/> <img src="images/Fig2.png" alt="drawing" width="250"/> <img src="images/Fig3.png" alt="drawing" width="250"/>
 
 <img src="images/Fig4.png" alt="drawing" width="300"/>
 
